@@ -15,4 +15,3 @@ Hi, I'm Kim In-Ye, an iOS developer who majored in UX design.
 ![XD](https://img.shields.io/badge/Adobe_XD-%23FF61F6.svg?&style=flat&logo=adobexd&logoColor=white)&nbsp;
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?&style=flat&logo=adobeillustrator&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?&style=flat&logo=adobephotoshop&logoColor=white)&nbsp;
-![sketch](https://img.shields.io/badge/sketch-%23F7B500.svg?&style=flat&logo=sketch&logoColor=white)&nbsp;
